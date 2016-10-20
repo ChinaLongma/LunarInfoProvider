@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 
 public class LunarInfo {
+
     private static final String TAG = "LunarInfo";
 
     // The columns for result.

@@ -23,6 +23,7 @@ import java.util.Locale;
  * + {@link #FUN_GET_FROM_TO});<br>
  */
 public class LunarInfoProvider extends ContentProvider {
+
     private static final String TAG = "LunarInfoProvider";
 
     // Defined the authority for this provider.

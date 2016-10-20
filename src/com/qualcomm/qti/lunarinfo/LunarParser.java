@@ -10,6 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class LunarParser {
+
     private static final String TAG = "LunarParser";
 
     // To defined the days of every lunar month from 1900. If the month has 30 days,

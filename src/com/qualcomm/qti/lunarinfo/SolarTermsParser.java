@@ -9,6 +9,7 @@ import com.qualcomm.qti.lunarinfo.LunarInfo.DateInfo;
 import java.util.ArrayList;
 
 public class SolarTermsParser {
+
     // The parameters to get the lunar solar terms.
     private static final double D_SOLAR_TERMS = 0.2422;
     private static final double[] C_20TH_CENTURY = new double[] { 6.11,
